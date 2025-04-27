@@ -1,7 +1,7 @@
 import "dotenv/config";
 import { ethers } from "ethers";
 import fs from "fs";
-const crypt = require('web3automation');
+import crypt from 'web3automation'
 import readline from "readline";
 
 // Constants
