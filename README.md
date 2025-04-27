@@ -21,8 +21,8 @@ A multi-wallet automation tool for swapping PRIOR tokens on the PRIOR testnet.
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/TestnetMaster29/prior-testnet-bot.git
-cd prior-testnet-bot
+git clone https://github.com/Zack914/Prior-Testnet-Bot.git
+cd Prior-Testnet-Bot
 ```
 
 2. Install dependencies:
